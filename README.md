@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charleshergott
 - 👀 I’m interested in aerospace and anything that flies; 
-- 🌱 I master HTML/CSS, JavaScript but prefer ...Angular.
+- 🌱 Angular fan.
 - 💞️ I’m looking to collaborate on any interesting project :-)
 - 📫 How to reach me : my email is 0763718903rs@gmail.com
 - 😄 Pronouns: he
